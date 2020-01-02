@@ -6,6 +6,6 @@ This is the game of black jack.
 
 
 
-** future work**
+**future work**
 
 Add insurence function and split function.
